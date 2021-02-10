@@ -1,6 +1,6 @@
 #### Go by day Rust by night and Java inbetween
 
-🔭 Aside from the day job I’m currently working on go-whispers and playing around with AWS and trying to complete all the hackerrank challanges which seem to appear faster than they can be committed
+🔭 Aside from the day job I’m currently working on go-whispers, playing around with AWS and trying to complete all the Hackerrank challanges which seem to appear faster than they can be committed
 
 
 <!--
