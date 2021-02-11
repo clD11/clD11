@@ -1,4 +1,4 @@
-Full Cycle Developer aficionado 🚀 🚀 🚀 
+Currently getting to grips with Golang and Rust
 
 <!--
   - 🌱 I’m currently learning ...
