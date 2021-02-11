@@ -1,4 +1,4 @@
-🚀 Full Cycle Developer aficionado 🚀
+🚀 Full Cycle Developer aficionado
 
 <!--
   - 🌱 I’m currently learning ...
