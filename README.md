@@ -1,11 +1,4 @@
-#### Go by day Rust by night and Java inbetween
-
-🔭 Aside from the day job I’m currently working on go-whispers, playing around with AWS and trying to complete all the Hackerrank challanges which seem to appear faster than they can be committed
-
-
-<!--
-**clD11/clD11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+🚀 Full Cycle Developer aficionado 🚀
 
 <!--
   - 🌱 I’m currently learning ...
