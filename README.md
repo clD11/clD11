@@ -1,7 +1,7 @@
 ʕ•̫͡•ʕ*̫͡*ʕ•͡•ʔ-̫͡-ʕ•̫͡•ʔ*̫͡*ʔ-̫͡-ʔ
 ____
 
-######_The idea is to eventually use Github Actions to make this less static_
+###### _The idea is to eventually use Github Actions to make this less static_
 
 |  Navigation                                     |          
 | :-----------------------------------------------| 
